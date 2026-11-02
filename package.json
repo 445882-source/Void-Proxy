@@ -1,0 +1,11 @@
+{
+  "name": "void-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Starry Scramjet-powered web proxy shell",
+  "type": "module",
+  "scripts": {
+    "build": "echo \"Static site in public/ - no build step required\"",
+    "start": "node server.js"
+  }
+}
